@@ -1,0 +1,9 @@
+{
+	"name": "SQLServer-to-ADLSandSnowflake",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dedaa529-7105-407c-8536-14ff4ed8f9c6",
+		"tenantId": "1680abbe-1a01-4cb0-99e9-452fe05bf615"
+	}
+}
