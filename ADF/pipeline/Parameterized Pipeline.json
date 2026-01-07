@@ -29,7 +29,8 @@
 					"dataset": {
 						"referenceName": "Dataset_LookupForSourceTables",
 						"type": "DatasetReference"
-					}
+					},
+					"firstRowOnly": false
 				}
 			}
 		],
